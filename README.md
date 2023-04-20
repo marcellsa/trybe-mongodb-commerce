@@ -1,10 +1,20 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<h1>MongoDB Commerce</h1>
+
+> Status do Projeto: :heavy_check_mark: concluído
+
+## 💻 Objetivo do projeto 
+
+<p align="justify">
+  O projeto MongoDB Commerce tem como finalidade trabalhar consultas e atualizações no banco commerce, praticar a elaboração de querys com um banco de dados não relacional que é o MongoDB. 
+</p>
+
+## 🛠 Tecnologias
+
+<div>
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>     
+</div>
+
+---
+
+Desenvolvido por [Marcel Albuquerque](www.linkedin.com/in/marcellsa), © 2022.
